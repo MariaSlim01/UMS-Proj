@@ -1,0 +1,46 @@
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Application1.deps.json
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Application1.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\ref\UMS.Application1.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Application1.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Persistence.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.CopyComplete
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\ref\UMS.Application1.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\obj\Debug\net6.0\UMS.Application1.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Application1.deps.json
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Application1.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\ref\UMS.Application1.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Application1.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Persistence.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Persistence.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.csproj.CopyComplete
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\ref\UMS.Application1.dll
+C:\Users\PC\RiderProjects\final project\UMS.Application1\obj\Debug\net6.0\UMS.Application1.pdb

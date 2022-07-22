@@ -1,0 +1,28 @@
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.deps.json
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.runtimeconfig.json
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\bin\Debug\net6.0\ref\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\ref\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.deps.json
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.runtimeconfig.json
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\bin\Debug\net6.0\ref\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\bin\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\ref\UMS.Configuration.dll
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Configuration\obj\Debug\net6.0\UMS.Configuration.genruntimeconfig.cache

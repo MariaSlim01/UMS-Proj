@@ -1,0 +1,38 @@
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.deps.json
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.runtimeconfig.json
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\ref\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\ref\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.CopyComplete
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\PC\RiderProjects\WebApplication3\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.deps.json
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.runtimeconfig.json
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\ref\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Domain.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Domain.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\bin\Debug\net6.0\UMS.Infrastructure.Abstraction.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.csproj.CopyComplete
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\ref\UMS.Infrastructure.dll
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.pdb
+C:\Users\PC\RiderProjects\final project\UMS.Infrastructure\obj\Debug\net6.0\UMS.Infrastructure.genruntimeconfig.cache

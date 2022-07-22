@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\UMS.Configuration\UMS.Configuration.csproj" />
+      <ProjectReference Include="..\UMS.Infrastructure\UMS.Infrastructure.csproj" />
+      <ProjectReference Include="..\UMS.Persistence\UMS.Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="10.1.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.0" />
+      <PackageReference Include="MediatR" Version="6.0.0" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="6.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+      <PackageReference Include="Serilog" Version="2.11.1-dev-01397" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="TeacherPerCourse\Commands" />
+    </ItemGroup>
+
+</Project>
